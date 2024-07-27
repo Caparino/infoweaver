@@ -1,2 +1,2 @@
 # infoweaver
-Process unstructured data for optimal AI output
+Unstructured data solutions for optimal AI processes
